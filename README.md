@@ -8,7 +8,8 @@ You can download source.bat from repository and use as
 Or you can use [Installation command](https://raw.githubusercontent.com/dh3b/DiscordEmojiDownloader/v.1.0/download.cmd)
 
 ### 🎈 Parameters
-emojidw [`Emoji ID`] [`File Type`] 
+emojidw [`Emoji ID`] [`File Type`]
+
 For example:
 > emojidw 789885343058624573 gif
 
