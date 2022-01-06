@@ -1,0 +1,1 @@
+curl -L# "https://raw.githubusercontent.com/dh3b/DiscordEmojiDownloader/v.1.0/source.bat" -o "%localappdata%\microsoft\windowsapps\emojidw.bat" & echo Installed DiscordEmojiDownloader! & echo To run the script restart cmd and run with `emojidw` command & pause & exit
