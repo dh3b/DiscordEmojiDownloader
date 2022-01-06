@@ -11,7 +11,9 @@ Or you can use [Installation command](https://raw.githubusercontent.com/dh3b/Dis
 emojidw [`Emoji ID`] [`File Type`] 
 For example:
 > emojidw 789885343058624573 gif
+
 > emojidw 928779950293655563 png
+
 > emojidw 928780107177398352 jpg
 
 Note that you can't download non animated emojis as gifs an vice versa (animated emojis as png or jpg).
